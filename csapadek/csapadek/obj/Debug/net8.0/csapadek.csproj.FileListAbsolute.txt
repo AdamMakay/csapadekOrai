@@ -1,0 +1,14 @@
+C:\Users\makay.adam\source\repos\csapadek\csapadek\bin\Debug\net8.0\csapadek.exe
+C:\Users\makay.adam\source\repos\csapadek\csapadek\bin\Debug\net8.0\csapadek.deps.json
+C:\Users\makay.adam\source\repos\csapadek\csapadek\bin\Debug\net8.0\csapadek.runtimeconfig.json
+C:\Users\makay.adam\source\repos\csapadek\csapadek\bin\Debug\net8.0\csapadek.dll
+C:\Users\makay.adam\source\repos\csapadek\csapadek\bin\Debug\net8.0\csapadek.pdb
+C:\Users\makay.adam\source\repos\csapadek\csapadek\obj\Debug\net8.0\csapadek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makay.adam\source\repos\csapadek\csapadek\obj\Debug\net8.0\csapadek.AssemblyInfoInputs.cache
+C:\Users\makay.adam\source\repos\csapadek\csapadek\obj\Debug\net8.0\csapadek.AssemblyInfo.cs
+C:\Users\makay.adam\source\repos\csapadek\csapadek\obj\Debug\net8.0\csapadek.csproj.CoreCompileInputs.cache
+C:\Users\makay.adam\source\repos\csapadek\csapadek\obj\Debug\net8.0\csapadek.dll
+C:\Users\makay.adam\source\repos\csapadek\csapadek\obj\Debug\net8.0\refint\csapadek.dll
+C:\Users\makay.adam\source\repos\csapadek\csapadek\obj\Debug\net8.0\csapadek.pdb
+C:\Users\makay.adam\source\repos\csapadek\csapadek\obj\Debug\net8.0\csapadek.genruntimeconfig.cache
+C:\Users\makay.adam\source\repos\csapadek\csapadek\obj\Debug\net8.0\ref\csapadek.dll
